@@ -1,0 +1,332 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Macarrão Carbonara",
+    "Ingredientes": [ "Macarrão", "Ovos", "Bacon", "Queijo Parmesão" ],
+    "Instrucoes": "Cozinhe o macarrão, prepare o molho com ovos e bacon, misture tudo.",
+    "ImagemWeb": "https://i.pinimg.com/736x/38/11/6c/38116cb2cd4e42d3ce4668f22b00f5e9.jpg",
+    "Descricao": "Um prato clássico italiano feito com macarrão."
+  },
+  {
+    "Id": 2,
+    "Nome": "Macarrão ao Pesto",
+    "Ingredientes": [ "Macarrão", "Manjericão", "Pinoli", "Azeite", "Queijo Parmesão" ],
+    "Instrucoes": "Prepare o molho pesto, cozinhe o macarrão, misture tudo.",
+    "ImagemWeb": "https://renata.com.br/images/receitas/36/renata-imagem-receitas-macarrao-ao-molho-pesto-share.jpg",
+    "Descricao": "Delicioso macarrão ao molho pesto."
+  },
+  {
+    "Id": 3,
+    "Nome": "Salada de Frango",
+    "Ingredientes": [ "Frango", "Alface", "Tomate", "Cenoura", "Molho de Mostarda" ],
+    "Instrucoes": "Grelhe o frango, prepare os legumes, misture com o molho.",
+    "ImagemWeb": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3209790:1648470963/salada%20com%20frango.jpg?f=4x3&$p$f=77054a6",
+    "Descricao": "Uma salada saudável e saborosa com frango grelhado."
+  },
+  {
+    "Id": 4,
+    "Nome": "Macarrão à Bolonhesa",
+    "Ingredientes": [ "Macarrão", "Carne Moída", "Molho de Tomate", "Cebola", "Alho", "Queijo Parmesão" ],
+    "Instrucoes": "Cozinhe o macarrão, prepare o molho bolonhesa com carne moída e molho de tomate, misture tudo.",
+    "ImagemWeb": "https://img.cybercook.com.br/receitas/610/espaguete-com-molho-a-bolonhesa-ou-ragu-bolognese-1.jpeg",
+    "Descricao": "Macarrão com molho de carne moída e tomate, um prato clássico italiano."
+  },
+  {
+    "Id": 5,
+    "Nome": "Macarrão Alfredo",
+    "Ingredientes": [ "Macarrão", "Manteiga", "Creme de Leite", "Queijo Parmesão", "Alho" ],
+    "Instrucoes": "Cozinhe o macarrão, prepare o molho Alfredo com manteiga, creme de leite e queijo parmesão, misture tudo.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/fettuccine-alfredo-rotated.jpeg",
+    "Descricao": "Macarrão com molho cremoso de queijo parmesão."
+  },
+  {
+    "Id": 6,
+    "Nome": "Sopa de Tomate",
+    "Ingredientes": [ "Tomate", "Cebola", "Alho", "Caldo de Legumes", "Manjericão" ],
+    "Instrucoes": "Refogue a cebola e o alho, adicione os tomates e o caldo de legumes, cozinhe até engrossar, adicione manjericão.",
+    "ImagemWeb": " https://gomesdacosta.com.br/wp-content/uploads/2021/04/sopa-de-tomate-960x640.png ",
+    "Descricao": "Uma sopa cremosa e saborosa feita com tomates frescos."
+  },
+  {
+    "Id": 7,
+    "Nome": "Frango à Parmegiana",
+    "Ingredientes": [ "Frango", "Farinha de Rosca", "Ovos", "Molho de Tomate", "Queijo Mussarela" ],
+    "Instrucoes": "Empane o frango com farinha de rosca e ovos, frite, cubra com molho de tomate e queijo, asse até derreter.",
+    "ImagemWeb": "https://gomesdacosta.com.br/wp-content/uploads/2021/04/sopa-de-tomate-960x640.png",
+    "Descricao": "Frango empanado e assado com molho de tomate e queijo derretido."
+  },
+  {
+    "Id": 8,
+    "Nome": "Lasanha de Carne",
+    "Ingredientes": [ "Massa de Lasanha", "Carne Moída", "Molho de Tomate", "Queijo Mussarela", "Ricota" ],
+    "Instrucoes": "Prepare o molho de carne, monte camadas de massa, molho e queijos, asse até dourar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/lasanha-de-carne-moida.jpeg ",
+    "Descricao": "Uma lasanha clássica com camadas de carne moída e queijos."
+  },
+  {
+    "Id": 9,
+    "Nome": "Risoto de Cogumelos",
+    "Ingredientes": [ "Arroz Arborio", "Cogumelos", "Caldo de Legumes", "Cebola", "Queijo Parmesão" ],
+    "Instrucoes": "Refogue a cebola e os cogumelos, adicione o arroz e cozinhe com o caldo, finalize com queijo parmesão.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/lasanha-de-carne-moida.jpeg",
+    "Descricao": "Risoto cremoso feito com cogumelos frescos e queijo parmesão."
+  },
+  {
+    "Id": 10,
+    "Nome": "Tacos de Carne",
+    "Ingredientes": [ "Tortillas", "Carne Moída", "Alface", "Tomate", "Queijo Cheddar", "Sour Cream" ],
+    "Instrucoes": "Cozinhe a carne moída com temperos, monte os tacos com alface, tomate, queijo e sour cream.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/chilli-com-carne-simples-capa.jpeg ",
+    "Descricao": "Tacos recheados com carne moída e acompanhamentos frescos."
+  },
+  {
+    "Id": 11,
+    "Nome": "Camarão na Moranga",
+    "Ingredientes": [ "Camarão", "Moranga", "Creme de Leite", "Tomate", "Cebola", "Alho" ],
+    "Instrucoes": "Prepare o creme de camarão com tomates e cebolas, asse a moranga, recheie com o creme de camarão.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/camarao-na-moranga-com-pimentao-730x730.jpg ",
+    "Descricao": "Camarão cremoso servido dentro de uma moranga assada."
+  },
+  {
+    "Id": 12,
+    "Nome": "Bacalhau à Brás",
+    "Ingredientes": [ "Bacalhau", "Batata Palha", "Ovos", "Cebola", "Azeitonas" ],
+    "Instrucoes": "Desfie o bacalhau, refogue com cebola, adicione batata palha e ovos mexidos, finalize com azeitonas.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/bacalhau-a-bras-1-730x913.jpg ",
+    "Descricao": "Prato português com bacalhau desfiado, ovos e batata palha."
+  },
+  {
+    "Id": 13,
+    "Nome": "Paella",
+    "Ingredientes": [ "Arroz", "Camarão", "Lula", "Mexilhões", "Pimentão", "Ervilhas", "Açafrão" ],
+    "Instrucoes": "Cozinhe os frutos do mar, prepare o arroz com açafrão, adicione frutos do mar, pimentão e ervilhas.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/paella-caipira-capa.jpeg ",
+    "Descricao": "Prato tradicional espanhol com arroz e frutos do mar."
+  },
+  {
+    "Id": 14,
+    "Nome": "Feijoada",
+    "Ingredientes": [ "Feijão Preto", "Carne Seca", "Linguiça", "Costelinha de Porco", "Louro", "Alho", "Cebola" ],
+    "Instrucoes": "Cozinhe o feijão com as carnes e temperos até ficar macio.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/feijoada-1-730x730.jpg ",
+    "Descricao": "Prato tradicional brasileiro feito com feijão preto e carnes variadas."
+  },
+  {
+    "Id": 15,
+    "Nome": "Moqueca de Peixe",
+    "Ingredientes": [ "Peixe", "Leite de Coco", "Tomate", "Pimentão", "Cebola", "Coentro" ],
+    "Instrucoes": "Cozinhe o peixe com leite de coco, tomate, pimentão e cebola, finalize com coentro.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/moqueca-de-peixe-facil-capa.png ",
+    "Descricao": "Prato brasileiro feito com peixe e leite de coco."
+  },
+  {
+    "Id": 16,
+    "Nome": "Bobó de Camarão",
+    "Ingredientes": [ "Camarão", "Mandioca", "Leite de Coco", "Tomate", "Cebola", "Coentro" ],
+    "Instrucoes": "Cozinhe a mandioca e bata até formar um creme, adicione camarão, leite de coco, tomate e cebola, cozinhe até engrossar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/bobo-de-mandioca-e-camarao-730x654.jpg ",
+    "Descricao": "Camarão cremoso feito com mandioca e leite de coco."
+  },
+  {
+    "Id": 17,
+    "Nome": "Strogonoff de Frango",
+    "Ingredientes": [ "Frango", "Creme de Leite", "Molho de Tomate", "Cebola", "Champignon" ],
+    "Instrucoes": "Cozinhe o frango com cebola, adicione molho de tomate, creme de leite e champignon, cozinhe até engrossar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/strogonoff-de-frango.jpg ",
+    "Descricao": "Frango cremoso feito com creme de leite e molho de tomate."
+  },
+  {
+    "Id": 18,
+    "Nome": "Escondidinho de Carne Seca",
+    "Ingredientes": [ "Carne Seca", "Mandioca", "Cebola", "Alho", "Queijo Coalho" ],
+    "Instrucoes": "Cozinhe a carne seca, prepare um purê de mandioca, monte camadas de carne e purê, cubra com queijo e asse.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/escondidinho-de-carne-moida-rotated.jpeg ",
+    "Descricao": "Prato brasileiro feito com carne seca e purê de mandioca."
+  },
+  {
+    "Id": 19,
+    "Nome": "Quiche de Alho-Poró",
+    "Ingredientes": [ "Massa de Torta", "Alho-Poró", "Creme de Leite", "Ovos", "Queijo Gruyère" ],
+    "Instrucoes": "Prepare o recheio com alho-poró, creme de leite, ovos e queijo, coloque na massa e asse até dourar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/quiche-de-alho-poro-capa.png ",
+    "Descricao": "Torta francesa feita com alho-poró e queijo."
+  },
+  {
+    "Id": 20,
+    "Nome": "Pizza Margherita",
+    "Ingredientes": [ "Massa de Pizza", "Tomate", "Mussarela de Búfala", "Manjericão", "Azeite" ],
+    "Instrucoes": "Prepare a massa, cubra com tomate, mussarela e manjericão, asse até dourar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/pizza-margherita-1-730x450.png ",
+    "Descricao": "Pizza clássica italiana com tomate, mussarela e manjericão."
+  },
+  {
+    "Id": 21,
+    "Nome": "Hambúrguer Caseiro",
+    "Ingredientes": [ "Carne Moída", "Pão de Hambúrguer", "Queijo Cheddar", "Alface", "Tomate", "Cebola" ],
+    "Instrucoes": "Forme os hambúrgueres com a carne, grelhe, monte no pão com queijo, alface, tomate e cebola.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/hamburguer-de-patinho-730x787.jpg",
+    "Descricao": "Hambúrguer feito com carne moída e acompanhamentos frescos."
+  },
+  {
+    "Id": 22,
+    "Nome": "Ceviche de Peixe",
+    "Ingredientes": [ "Peixe Branco", "Limão", "Cebola Roxa", "Coentro", "Pimenta" ],
+    "Instrucoes": "Marinar o peixe no suco de limão, adicionar cebola, coentro e pimenta, servir fresco.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/ceviche-capa-rotated.jpeg",
+    "Descricao": "Prato peruano de peixe marinado em suco de limão."
+  },
+  {
+    "Id": 23,
+    "Nome": "Ratatouille",
+    "Ingredientes": [ "Berinjela", "Abobrinha", "Tomate", "Pimentão", "Cebola", "Alho" ],
+    "Instrucoes": "Corte os vegetais em rodelas, organize em uma assadeira, tempere e asse até ficar macio.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/ratatouille-simples-730x756.jpg ",
+    "Descricao": "Prato francês feito com vegetais assados."
+  },
+  {
+    "Id": 24,
+    "Nome": "Polenta Cremosa",
+    "Ingredientes": [ "Fubá", "Caldo de Legumes", "Manteiga", "Queijo Parmesão" ],
+    "Instrucoes": "Cozinhe o fubá com o caldo de legumes, adicione manteiga e queijo parmesão, misture até ficar cremoso.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/polenta.jpeg",
+    "Descricao": "Prato italiano cremoso feito com fubá e queijo parmesão."
+  },
+  {
+    "Id": 25,
+    "Nome": "Salada Caprese",
+    "Ingredientes": [ "Tomate", "Mussarela de Búfala", "Manjericão", "Azeite", "Vinagre Balsâmico" ],
+    "Instrucoes": "Fatie o tomate e a mussarela, organize em um prato, adicione manjericão, azeite e vinagre balsâmico.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/salada-caprese-com-reducao-de-balsamico-1-730x730.jpg ",
+    "Descricao": "Salada italiana simples feita com tomate, mussarela e manjericão."
+  },
+  {
+    "Id": 26,
+    "Nome": "Chili com Carne",
+    "Ingredientes": [ "Carne Moída", "Feijão", "Tomate", "Cebola", "Pimentão", "Pimenta" ],
+    "Instrucoes": "Cozinhe a carne moída com cebola, pimentão e tomate, adicione feijão e pimenta, cozinhe até engrossar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/chilli-com-carne-simples-capa.jpeg ",
+    "Descricao": "Prato mexicano apimentado feito com carne moída e feijão."
+  },
+  {
+    "Id": 27,
+    "Nome": "Torta de Maçã",
+    "Ingredientes": [ "Massa de Torta", "Maçã", "Açúcar", "Canela", "Limão" ],
+    "Instrucoes": "Prepare o recheio com maçãs, açúcar e canela, coloque na massa e asse até dourar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/torta-de-maca.jpeg ",
+    "Descricao": "Torta clássica americana feita com maçãs frescas e canela."
+  },
+  {
+    "Id": 28,
+    "Nome": "Tiramisu",
+    "Ingredientes": [ "Biscoito Champagne", "Café", "Mascarpone", "Açúcar", "Cacau em Pó" ],
+    "Instrucoes": "Molhe os biscoitos no café, monte camadas com mascarpone e açúcar, polvilhe cacau em pó, leve à geladeira.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/tiramisu-capa.png ",
+    "Descricao": "Sobremesa italiana feita com biscoitos, café e mascarpone."
+  },
+  {
+    "Id": 29,
+    "Nome": "Bruschetta",
+    "Ingredientes": [ "Pão", "Tomate", "Manjericão", "Alho", "Azeite" ],
+    "Instrucoes": "Toste o pão, esfregue alho, cubra com tomate e manjericão picados, regue com azeite.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/brusqueta.jpeg",
+    "Descricao": "Entrada italiana feita com pão tostado e tomate fresco."
+  },
+  {
+    "Id": 30,
+    "Nome": "Gazpacho",
+    "Ingredientes": [ "Tomate", "Pepino", "Pimentão", "Cebola", "Alho", "Azeite", "Vinagre" ],
+    "Instrucoes": "Bata todos os ingredientes no liquidificador, leve à geladeira até esfriar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/gaspacho-730x912.jpg ",
+    "Descricao": "Sopa fria espanhola feita com vegetais frescos."
+  },
+  {
+    "Id": 31,
+    "Nome": "Panqueca Americana",
+    "Ingredientes": [ "Farinha", "Ovos", "Leite", "Açúcar", "Fermento", "Manteiga" ],
+    "Instrucoes": "Misture todos os ingredientes, frite em pequenas porções em uma frigideira quente.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/panqueca-americana-de-kefir-730x730.jpg",
+    "Descricao": "Panquecas fofas e deliciosas, perfeitas para o café da manhã."
+  },
+  {
+    "Id": 32,
+    "Nome": "Sushi",
+    "Ingredientes": [ "Arroz para Sushi", "Alga Nori", "Peixe Cru", "Pepino", "Abacate", "Molho de Soja" ],
+    "Instrucoes": "Prepare o arroz, enrole com alga, peixe e vegetais, sirva com molho de soja.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/sushi-730x450.jpg",
+    "Descricao": "Prato japonês feito com arroz, peixe e vegetais."
+  },
+  {
+    "Id": 33,
+    "Nome": "Pad Thai",
+    "Ingredientes": [ "Macarrão de Arroz", "Camarão", "Amendoim", "Broto de Feijão", "Ovos", "Molho de Tamarindo" ],
+    "Instrucoes": "Cozinhe o macarrão, prepare o molho, adicione camarão e vegetais, misture tudo.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/pad-thai-1-730x730.jpg",
+    "Descricao": "Prato tailandês feito com macarrão de arroz e camarão."
+  },
+  {
+    "Id": 34,
+    "Nome": "Falafel",
+    "Ingredientes": [ "Grão-de-Bico", "Cebola", "Alho", "Salsinha", "Cominho" ],
+    "Instrucoes": "Bata todos os ingredientes, forme bolinhos, frite até dourar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/falafel.jpeg ",
+    "Descricao": "Bolinhos fritos de grão-de-bico, típicos do Oriente Médio."
+  },
+  {
+    "Id": 35,
+    "Nome": "Hummus",
+    "Ingredientes": [ "Grão-de-Bico", "Tahine", "Alho", "Limão", "Azeite" ],
+    "Instrucoes": "Bata todos os ingredientes até formar uma pasta cremosa.",
+    "ImagemWeb": "https://i.panelinha.com.br/i1/64-bk-5770-homus-receita.webp ",
+    "Descricao": "Pasta de grão-de-bico e tahine, servida como entrada."
+  },
+  {
+    "Id": 36,
+    "Nome": "Crepe Francês",
+    "Ingredientes": [ "Farinha", "Ovos", "Leite", "Manteiga", "Sal" ],
+    "Instrucoes": "Misture todos os ingredientes, frite em uma frigideira fina, recheie a gosto.",
+    "ImagemWeb": "https://img-global.cpcdn.com/recipes/e9efbfad71522f7f/680x482cq70/foto-principal-da-receita-crepe-frances.webp ",
+    "Descricao": "Massa fina e delicada, recheada conforme a preferência."
+  },
+  {
+    "Id": 37,
+    "Nome": "Guacamole",
+    "Ingredientes": [ "Abacate", "Tomate", "Cebola", "Coentro", "Limão" ],
+    "Instrucoes": "Amasse o abacate, misture com tomate, cebola, coentro e suco de limão.",
+    "ImagemWeb": " https://www.receiteria.com.br/wp-content/uploads/guacamole-com-avocado-730x794.jpg",
+    "Descricao": "Pasta mexicana de abacate, perfeita como acompanhamento."
+  },
+  {
+    "Id": 38,
+    "Nome": "Tempurá",
+    "Ingredientes": [ "Camarão", "Legumes", "Farinha", "Água Gelada", "Óleo" ],
+    "Instrucoes": "Prepare a massa com farinha e água gelada, mergulhe os ingredientes, frite até dourar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/tempura-de-camarao.jpg ",
+    "Descricao": "Prato japonês de frutos do mar e legumes empanados e fritos."
+  },
+  {
+    "Id": 39,
+    "Nome": "Pão de Queijo",
+    "Ingredientes": [ "Polvilho Doce", "Queijo Minas", "Leite", "Ovos", "Óleo" ],
+    "Instrucoes": "Misture todos os ingredientes, forme bolinhas, asse até dourar.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/pao-de-queijo-no-liquidificador.jpeg ",
+    "Descricao": "Bolinhas de queijo assadas, típicas de Minas Gerais."
+  },
+  {
+    "Id": 40,
+    "Nome": "Bolo de Cenoura",
+    "Ingredientes": [ "Cenoura", "Farinha", "Açúcar", "Ovos", "Fermento", "Cobertura de Chocolate" ],
+    "Instrucoes": "Bata todos os ingredientes, asse até dourar, cubra com chocolate.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-cenoura-de-liquidificador.jpeg ",
+    "Descricao": "Bolo fofinho de cenoura com cobertura de chocolate."
+  },
+  {
+    "Id": 41,
+    "Nome": "Salada Grega",
+    "Ingredientes": [ "Tomate", "Pepino", "Cebola Roxa", "Azeitonas", "Queijo Feta", "Azeite" ],
+    "Instrucoes": "Corte os vegetais, misture com azeitonas e queijo feta, regue com azeite.",
+    "ImagemWeb": "https://www.receiteria.com.br/wp-content/uploads/salada-grega-01-730x487.jpg ",
+    "Descricao": "Salada fresca com vegetais, queijo feta e azeitonas."
+  }
+]
+
+
